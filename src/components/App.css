@@ -1,9 +1,20 @@
-.App {
-  text-align: center;
-}
-
 .header {
   display: flex;
   justify-content: center;
   background-color: lightblue;
+}
+
+.main {
+  display: flex;
+  margin: 5rem 0;
+}
+
+.content {
+  margin-right: 5rem;
+}
+
+img {
+  width: 150px;
+  height: 350px;
+  margin: 0 10rem;
 }
